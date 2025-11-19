@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class powersOf2 {
     public static void main(String[] args) {
         int n = 100;
